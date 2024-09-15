@@ -31,9 +31,9 @@
 - [ ] 🟢 [Big O](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)  
 - [ ] 🟢 [LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)  
 - [ ] 🔴 Hashing  
-      - [ ] 🔴 HashTable & Hashset  
-      - [ ] 🔴 Hashcode collision  
-      - [ ] 🔴 GetHashCode & Equal redefinition
+  - [ ] 🔴 HashTable & Hashset  
+  - [ ] 🔴 Hashcode collision  
+  - [ ] 🔴 GetHashCode & Equal redefinition
 
 # Communication
 
