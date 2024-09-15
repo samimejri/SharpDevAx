@@ -16,10 +16,10 @@
 - [ ] 🟢 Static  
 - [ ] 🔴 Immutable classes  
 - [ ] 🟢 Memory management:  
-  - [ ] 🟡 Value & Reference types  
-  - [ ] 🟡 Stack & Heap  
-  - [ ] 🟡 Value & Reference parameters  
-  - [ ] 🟡 [Generational GC](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)  
+  - [ ] 🟢 Value & Reference types  
+  - [ ] 🟢 Stack & Heap  
+  - [ ] 🟢 Value & Reference parameters  
+  - [ ] 🟢 [Generational GC](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals)  
   - [ ] 🟡 Boxing & Unboxing  
   - [ ] 🟡 [IDisposable implementation](https://learn.microsoft.com/fr-fr/dotnet/api/system.idisposable?view=net-8.0)  
   - [ ] 🟡 GC Thread Suspension  
@@ -74,8 +74,8 @@
 # Craftsmanship
 
 - [ ] 🟢 Unit testing  
-  - [ ] 🟡 Assert  
-  - [ ] 🟡 Mocking  
+  - [ ] 🟢 Assert  
+  - [ ] 🟢 Mocking  
   - [ ] 🟡 TDD  
   - [ ] 🔴 BDD  
   - [ ] 🔴 DDD  
@@ -84,6 +84,6 @@
   - [ ] 🟡 Structure  
   - [ ] 🔴 Behavior  
   - [ ] 🔴 Concurrency  
-- [ ] 🟡 C# Coding Standards  
-- [ ] 🟡 SOLID Principles  
+- [ ] 🟢 C# Coding Standards  
+- [ ] 🟢 SOLID Principles  
 - [ ] 🟡 Clean Code best practices
